@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Ralph Nazombe">
+    <title>Absa Front End Digital Markets</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="css/absa-digital-markets.css" rel="stylesheet">
+  </head>
+  <body>
+    <section class="home-page">
+      <section class="top-menu-section d-none d-md-block">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-6">
+              <ul class="top-menu">
+                <li><a class="top-links" href="#">Home</a></li>
+                <li><a class="top-links" href="#">Faqs</a></li>
+                <li><a class="top-links" href="#">Contact</a></li>
+                <li class="no-border">
+                  <a class="top-links dropdown-toggle" id="currency"  href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">USD</a> 
+                  <div class="dropdown-menu" aria-labelledby="dropdown01">
+                    <a class="dropdown-item" href="#">ZAR</a>
+                    <a class="dropdown-item" href="#">UKP</a>
+                    <a class="dropdown-item" href="#">MWK</a>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="col-sm-6 text-right">
+              <div class="text-right">
+                <ul class="top-right">
+                  <li>
+                    <a  href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                  </li>
+                  <li>
+                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                  </li>
+                  <li>
+                    <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                  </li>
+                  <li>
+                    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                  </li>
+                  <li>
+                    <a href="#"><i class="fa fa-phone" aria-hidden="true"></i></a>
+                  </li>
+                  <li>
+                    <a href="tel:18001052541"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="container">
+        <div class="row">
+        <div class="col-sm-12">
+          <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">Canvas</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainmenu" aria-controls="mainmenu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mainmenu">
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#"><i class="fa fa-home" aria-hidden="true"></i> Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"><i class="fa fa-plane" aria-hidden="true"></i> Flights</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"><i class="fa fa-building" aria-hidden="true"></i> Hotels</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"><i class="fa fa-gift" aria-hidden="true"></i> Holidays</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"><i class="fa fa-pencil" aria-hidden="true"></i> Blog</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="tel:18001052541"><i class="fa fa-phone" aria-hidden="true"></i> 1800 105 2541</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </section>
+      <section class="main">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-7">
+              <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item">
+                  <a class="nav-link active" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true"><i class="fa fa-plane" aria-hidden="true"></i> Flight</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="hotels-tab" data-toggle="tab" href="#hotels" role="tab" aria-controls="hotels" aria-selected="false"><i class="fa fa-building" aria-hidden="true"></i> Hotels</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="flightHotels-tab" data-toggle="tab" href="#flightHotels" role="tab" aria-controls="hotelsHotels" aria-selected="false">Flight + Hotels <span class="save">Save</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="holidays-tab" data-toggle="tab" href="#holidays" role="tab" aria-controls="holidays" aria-selected="false"><i class="fa fa-gift" aria-hidden="true"></i> Holidays</a>
+                </li>
+              </ul>
+              <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+                  <div class="container">
+                    <div class="row title-destination-selection">
+                      <div class="col-sm-6 no-padding">
+                        <h2>Book Your Flights</h2>
+                      </div>
+                      <div class="col-sm-6 no-padding text-right">
+                        <button type="submit" class="btn btn-destination active">Domestic</button><button type="submit" class="btn btn-destination">International</button>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <form id="save-later-form">
+                        <div class="form-row">
+                          <div class="form-group col-md-6">
+                            <label for="from">From</label>
+                            <input type="text" class="form-control" name="from" id="from" placeholder="E.g Melbourne, Australia">
+                            <div id="match-list"></div>
+                          </div>
+                          <div class="form-group col-md-6">
+                            <label for="to">To</label>
+                            <input type="text" class="form-control" name="to" id="to" placeholder="E.g New York, United States">
+                            <div id="match-list"></div>
+                          </div>
+                        </div>
+                        <div class="form-row">
+                          <div class="form-group col-md-5">
+                            <label for="departure">Departure</label>
+                            <input type="text" class="form-control" value="" placeholder="MM/DD/YYYY" name="departure" id="departure"> 
+                          </div>
+                          <div class="form-group col-md-5">
+                            <label for="return">Return</label>
+                            <input type="text" class="form-control" placeholder="MM/DD/YYYY" name="return" id="return">
+                          </div>
+                          <div class="form-group col-md-2">
+                            <label for="adults">Adults</label>
+                            <input type="text" class="form-control" name="adults" placeholder="2" id="adults">
+                          </div>
+                        </div>
+                        <div class="form-row">
+                          <div class="form-group col-md-6">
+                            <button type="submit" id="save" class="btn btn-primary">Search Flights</button>
+                          </div>
+                          <div class="form-group col-md-6 text-right">
+                            <a href="#"  class="advance-search  align-bottom">Advanced Search</a>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="hotels" role="tabpanel" aria-labelledby="hotels-tab">
+                  <div class="container">
+                    <div class="row title-destination-selection">
+                      <div class="col-sm-6 no-padding">
+                        <h2>Book Hotels</h2>
+                      </div>
+                      <div class="col-sm-6 no-padding text-right">
+                        <button type="submit" class="btn btn-destination active">Domestic</button><button type="submit" class="btn btn-destination">International</button>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <form>
+                        <div class="form-row">
+                          <div class="form-group col-md-12">
+                            <label for="destination">Where are you going?</label>
+                            <input type="text" class="form-control" name="destination" id="street-address-field" placeholder="E.g Melbourne, Australia">
+                          </div>
+                        </div>
+                        <div class="form-row">
+                          <div class="form-group col-md-4">
+                            <label for="check-in">Check-in</label>
+                            <input type="text" class="form-control" placeholder="MM/DD/YYYY" name="check-in" id="check-in">
+                          </div>
+                          <div class="form-group col-md-4">
+                            <label for="check-out">Check-out</label>
+                            <input type="text" class="form-control" placeholder="MM/DD/YYYY" name="check-out" id="check-out">
+                          </div>
+                          <div class="form-group col-md-2">
+                            <label for="adults">Adults</label>
+                            <input type="text" class="form-control" name="adults" placeholder="2" id="adults">
+                          </div>
+                          <div class="form-group col-md-2">
+                            <label for="children">Children</label>
+                            <input type="text" class="form-control" name="children" placeholder="2" id="children">
+                          </div>
+                        </div>
+                        <div class="form-row">
+                          <div class="form-group col-md-6">
+                            <button type="submit" class="btn btn-primary">Search Hotels</button>
+                          </div>
+                          <div class="form-group col-md-6 text-right">
+                            <a href="#"  class="advance-search  align-bottom">Advanced Search</a>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="flightHotels" role="tabpanel" aria-labelledby="flightHotels-tab">
+                  <div class="container">
+                    <div class="row title-destination-selection">
+                      <div class="col-sm-6 no-padding">
+                        <h2>Book Flights & Hotels</h2>
+                      </div>
+                      <div class="col-sm-6 no-padding text-right">
+                        <button type="submit" class="btn btn-destination active">Domestic</button><button type="submit" class="btn btn-destination">International</button>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <form>
+                        <div class="form-row">
+                          <div class="form-group col-md-6">
+                            <label for="from">From</label>
+                            <input type="text" class="form-control" name="from" id="fromflightHotels" placeholder="E.g Melbourne, Australia">
+                          </div>
+                          <div class="form-group col-md-6">
+                            <label for="to">To</label>
+                            <input type="text" class="form-control" name="to" id="toflightHotels" placeholder="E.g New York, United States">
+                          </div>
+                        </div>
+                        <div class="form-row">
+                          <div class="form-group col-md-5">
+                            <label for="departure">Departure</label>
+                            <input type="text" class="form-control" placeholder="MM/DD/YYYY" name="departure" id="departure">
+                          </div>
+                          <div class="form-group col-md-5">
+                            <label for="return">Return</label>
+                            <input type="text" class="form-control" placeholder="MM/DD/YYYY" name="return" id="return">
+                          </div>
+                          <div class="form-group col-md-2">
+                            <label for="adults">Adults</label>
+                            <input type="text" class="form-control" name="adults" placeholder="2" id="adults">
+                          </div>
+                        </div>
+                        <div class="form-row">
+                          <div class="form-group col-md-6">
+                            <button type="submit" class="btn btn-primary">Search Flights & Hotels</button>
+                          </div>
+                          <div class="form-group col-md-6 text-right">
+                            <a href="#"  class="advance-search  align-bottom">Advanced Search</a>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="holidays" role="tabpanel" aria-labelledby="holidays-tab">
+                  <div class="container">
+                    <div class="row title-destination-selection">
+                      <div class="col-sm-6 no-padding">
+                        <h2>Book Holidays</h2>
+                      </div>
+                      <div class="col-sm-6 no-padding text-right">
+                        <button type="submit" class="btn btn-destination active">Domestic</button><button type="submit" class="btn btn-destination">International</button>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <form>
+                        <div class="form-row">
+                          <div class="form-group col-md-12">
+                            <label for="destination">Where are you going?</label>
+                            <input type="text" class="form-control" name="destination" id="destination" placeholder="E.g Melbourne, Australia">
+                          </div>
+                        </div>
+                        <div class="form-row">
+                          <div class="form-group col-md-4">
+                            <label for="check-in">Check-in</label>
+                            <input type="text" class="form-control" placeholder="MM/DD/YYYY" name="check-in" id="check-in">
+                          </div>
+                          <div class="form-group col-md-4">
+                            <label for="check-out">Check-out</label>
+                            <input type="text" class="form-control" placeholder="MM/DD/YYYY" name="check-out" id="check-out">
+                          </div>
+                          <div class="form-group col-md-2">
+                            <label for="adults">Adults</label>
+                            <input type="text" class="form-control" name="adults" placeholder="2" id="adults">
+                          </div>
+                          <div class="form-group col-md-2">
+                            <label for="children">Children</label>
+                            <input type="text" class="form-control" name="children" placeholder="2" id="children">
+                          </div>
+                        </div>
+                        <div class="form-row">
+                          <div class="form-group col-md-6">
+                            <button type="submit" class="btn btn-primary">Search Holidays</button>
+                          </div>
+                          <div class="form-group col-md-6 text-right">
+                            <a href="#"  class="advance-search  align-bottom">Advanced Search</a>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </section>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="js/bootstrap.bundle.js"></script> 
+    <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js" integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E=" crossorigin="anonymous"></script>
+    <script src="js/custom-autocomplete.js"></script>
+  </body>
+</html>

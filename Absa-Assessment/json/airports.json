@@ -1,0 +1,506 @@
+[
+   {
+      "city":"Whakatane, New Zealand (WHK)",
+      "code":"WHK"
+   },
+   {
+      "city":"Whale Cove, NU (YXN)",
+      "code":"YXN"
+   },
+   {
+      "city":"Whale Pass, AK (WWP)",
+      "code":"WWP"
+   },
+   {
+      "city":"Whangarei, New Zealand (WRE)",
+      "code":"WRE"
+   },
+   {
+      "city":"White Mountain, AK (WMO)",
+      "code":"WMO"
+   },
+   {
+      "city":"White River, ON (YWR)",
+      "code":"YWR"
+   },
+   {
+      "city":"White River, VT (LEB)",
+      "code":"LEB"
+   },
+   {
+      "city":"Whitehorse, YT (YXY)",
+      "code":"YXY"
+   },
+   {
+      "city":"Whyalla, SA, Australia (WYA)",
+      "code":"WYA"
+   },
+   {
+      "city":"Wichita Falls, TX (SPS)",
+      "code":"SPS"
+   },
+   {
+      "city":"Wichita, KS (ICT)",
+      "code":"ICT"
+   },
+   {
+      "city":"Wick, United Kingdom (WIC)",
+      "code":"WIC"
+   },
+   {
+      "city":"Wilhelmshaven, Germany (WVN)",
+      "code":"WVN"
+   },
+   {
+      "city":"Wilkes Barre, PA (AVP)",
+      "code":"AVP"
+   },
+   {
+      "city":"Williams Harbour, NL (YWM)",
+      "code":"YWM"
+   },
+   {
+      "city":"Williams Lake, BC (YWL)",
+      "code":"YWL"
+   },
+   {
+      "city":"Williamsburg, VA (PHF)",
+      "code":"PHF"
+   },
+   {
+      "city":"Williamsport, PA (IPT)",
+      "code":"IPT"
+   },
+   {
+      "city":"Williston, ND (ISN)",
+      "code":"ISN"
+   },
+   {
+      "city":"Wilmington, NC (ILM)",
+      "code":"ILM"
+   },
+   {
+      "city":"Wiluna, WA, Australia (WUN)",
+      "code":"WUN"
+   },
+   {
+      "city":"Windarra, QL, Australia (WNR)",
+      "code":"WNR"
+   },
+   {
+      "city":"Windsor Locks, CT (BDL)",
+      "code":"BDL"
+   },
+   {
+      "city":"Windsor, ON (YQG)",
+      "code":"YQG"
+   },
+   {
+      "city":"Windsor, ON - Rail service (XEC)",
+      "code":"XEC"
+   },
+   {
+      "city":"Winnipeg, MB - International (YWG)",
+      "code":"YWG"
+   },
+   {
+      "city":"Winnipeg, MB - Rail service (XEF)",
+      "code":"XEF"
+   },
+   {
+      "city":"Winton, QL, Australia (WIN)",
+      "code":"WIN"
+   },
+   {
+      "city":"Woja, Marshall Islands (WJA)",
+      "code":"WJA"
+   },
+   {
+      "city":"Wollaston Lake, SK (ZWL)",
+      "code":"ZWL"
+   },
+   {
+      "city":"Wonan, Taiwan (WOT)",
+      "code":"WOT"
+   },
+   {
+      "city":"WonJu, South Korea (WJU)",
+      "code":"WJU"
+   },
+   {
+      "city":"Woodstock, ON - Rail service (XIP)",
+      "code":"XIP"
+   },
+   {
+      "city":"Worcester, MA (ORH)",
+      "code":"ORH"
+   },
+   {
+      "city":"Worland, WY (WRL)",
+      "code":"WRL"
+   },
+   {
+      "city":"Wotho Island, Marshall Islands (WTO)",
+      "code":"WTO"
+   },
+   {
+      "city":"Wotje Island, Marshall Islands (WTE)",
+      "code":"WTE"
+   },
+   {
+      "city":"Wrangell, AK (WRG)",
+      "code":"WRG"
+   },
+   {
+      "city":"Wroclaw, Poland (WRO)",
+      "code":"WRO"
+   },
+   {
+      "city":"Wudinna, SA, Australia (WUD)",
+      "code":"WUD"
+   },
+   {
+      "city":"Wuhan, China (WUH)",
+      "code":"WUH"
+   },
+   {
+      "city":"Wunnummin Lake, ON (WNN)",
+      "code":"WNN"
+   },
+   {
+      "city":"Wuyishan, China (WUS)",
+      "code":"WUS"
+   },
+   {
+      "city":"Wyndham, WA, Australia (WYN)",
+      "code":"WYN"
+   },
+   {
+      "city":"Wyoming, ON - Rail service (XWY)",
+      "code":"XWY"
+   },
+   {
+      "city":"Xi An, China - Xianyang (XIY)",
+      "code":"XIY"
+   },
+   {
+      "city":"Xiamen, China (XMN)",
+      "code":"XMN"
+   },
+   {
+      "city":"Xiangfan, China (XFN)",
+      "code":"XFN"
+   },
+   {
+      "city":"Xichang, China (XIC)",
+      "code":"XIC"
+   },
+   {
+      "city":"Xieng Khouang, Laos (XKH)",
+      "code":"XKH"
+   },
+   {
+      "city":"Xilinhot, China (XIL)",
+      "code":"XIL"
+   },
+   {
+      "city":"Xining, China (XNN)",
+      "code":"XNN"
+   },
+   {
+      "city":"Xuzhou, China (XUZ)",
+      "code":"XUZ"
+   },
+   {
+      "city":"Yakima, WA (YKM)",
+      "code":"YKM"
+   },
+   {
+      "city":"Yakutat, AK (YAK)",
+      "code":"YAK"
+   },
+   {
+      "city":"Yakutsk, Russia (YKS)",
+      "code":"YKS"
+   },
+   {
+      "city":"Yalumet, Papua New Guinea (KYX)",
+      "code":"KYX"
+   },
+   {
+      "city":"Yam Island, QL, Australia (XMY)",
+      "code":"XMY"
+   },
+   {
+      "city":"Yamagata, Japan (GAJ)",
+      "code":"GAJ"
+   },
+   {
+      "city":"Yan'an, China (ENY)",
+      "code":"ENY"
+   },
+   {
+      "city":"Yanbu, Saudi Arabia (YNB)",
+      "code":"YNB"
+   },
+   {
+      "city":"Yancheng, China (YNZ)",
+      "code":"YNZ"
+   },
+   {
+      "city":"Yandina, Solomon Islands (XYA)",
+      "code":"XYA"
+   },
+   {
+      "city":"Yangon, Myanmar (RGN)",
+      "code":"RGN"
+   },
+   {
+      "city":"Yanji, China (YNJ)",
+      "code":"YNJ"
+   },
+   {
+      "city":"Yantai, China (YNT)",
+      "code":"YNT"
+   },
+   {
+      "city":"Yaounde, Cameroon (YAO)",
+      "code":"YAO"
+   },
+   {
+      "city":"Yap, Micronesia (YAP)",
+      "code":"YAP"
+   },
+   {
+      "city":"Yarmouth, NS (YQI)",
+      "code":"YQI"
+   },
+   {
+      "city":"Yaroslavl, Russia (IAR)",
+      "code":"IAR"
+   },
+   {
+      "city":"Yazd, Iran (AZD)",
+      "code":"AZD"
+   },
+   {
+      "city":"Yelimane, Mali (EYL)",
+      "code":"EYL"
+   },
+   {
+      "city":"Yellowknife, NT (YZF)",
+      "code":"YZF"
+   },
+   {
+      "city":"Yellowstone/Cody, WY (COD)",
+      "code":"COD"
+   },
+   {
+      "city":"Yeosu, South Korea (RSU)",
+      "code":"RSU"
+   },
+   {
+      "city":"Yerevan, Armenia (EVN)",
+      "code":"EVN"
+   },
+   {
+      "city":"Yibin, China (YBP)",
+      "code":"YBP"
+   },
+   {
+      "city":"Yichang, China (YIH)",
+      "code":"YIH"
+   },
+   {
+      "city":"Yinchuan, China (INC)",
+      "code":"INC"
+   },
+   {
+      "city":"Yining, China (YIN)",
+      "code":"YIN"
+   },
+   {
+      "city":"Yiwu, China (YIW)",
+      "code":"YIW"
+   },
+   {
+      "city":"Yogyakarta, Indonesia (JOG)",
+      "code":"JOG"
+   },
+   {
+      "city":"Yonago, Japan (YGJ)",
+      "code":"YGJ"
+   },
+   {
+      "city":"Yonaguni Jima, Japan (OGN)",
+      "code":"OGN"
+   },
+   {
+      "city":"York Landing, MB (ZAC)",
+      "code":"ZAC"
+   },
+   {
+      "city":"Yorke Island, QL, Australia (OKR)",
+      "code":"OKR"
+   },
+   {
+      "city":"Yoronjima, Japan (RNJ)",
+      "code":"RNJ"
+   },
+   {
+      "city":"Youngstown, OH (YNG)",
+      "code":"YNG"
+   },
+   {
+      "city":"Yulin, China (UYN)",
+      "code":"UYN"
+   },
+   {
+      "city":"Yuma, AZ (YUM)",
+      "code":"YUM"
+   },
+   {
+      "city":"Yuzhno-Sakhalinsk, Russia (UUS)",
+      "code":"UUS"
+   },
+   {
+      "city":"Zadar, Croatia (ZAD)",
+      "code":"ZAD"
+   },
+   {
+      "city":"Zagreb, Croatia (ZAG)",
+      "code":"ZAG"
+   },
+   {
+      "city":"Zahedan, Iran (ZAH)",
+      "code":"ZAH"
+   },
+   {
+      "city":"Zakinthos Island, Greece (ZTH)",
+      "code":"ZTH"
+   },
+   {
+      "city":"Zamboanga, Philippines (ZAM)",
+      "code":"ZAM"
+   },
+   {
+      "city":"Zanzibar, Tanzania - Kisauni (ZNZ)",
+      "code":"ZNZ"
+   },
+   {
+      "city":"Zaporozhye, Ukraine (OZH)",
+      "code":"OZH"
+   },
+   {
+      "city":"Zaragoza, Spain and Canary Islands (ZAZ)",
+      "code":"ZAZ"
+   },
+   {
+      "city":"Zhanjiang, China (ZHA)",
+      "code":"ZHA"
+   },
+   {
+      "city":"Zhaotong, China (ZAT)",
+      "code":"ZAT"
+   },
+   {
+      "city":"Zhengzha, China (CGO)",
+      "code":"CGO"
+   },
+   {
+      "city":"Zhob, Pakistan (PZH)",
+      "code":"PZH"
+   },
+   {
+      "city":"Zhoushan, China (HSN)",
+      "code":"HSN"
+   },
+   {
+      "city":"Zhuhai, China (ZUH)",
+      "code":"ZUH"
+   },
+   {
+      "city":"Zielana, Poland (IEG)",
+      "code":"IEG"
+   },
+   {
+      "city":"Zihuatanejo/Ixtapa, Mexico (ZIH)",
+      "code":"ZIH"
+   },
+   {
+      "city":"Zouerate, Mauritania (OUZ)",
+      "code":"OUZ"
+   },
+   {
+      "city":"Zugapa, Indonesia (UGU)",
+      "code":"UGU"
+   },
+   {
+      "city":"Zurich, Switzerland (ZRH)",
+      "code":"ZRH"
+   },
+   {
+      "city":"Blantyre, Malawi (BLZ)",
+      "code":"BLZ"
+   },
+   {
+      "city":"Club Makokola, Malawi (CMK)",
+      "code":"CMK"
+   },
+   {
+      "city":"Lilongwe, Malawi (LLW)",
+      "code":"LLW"
+   },
+   {
+      "city":"Mzuzu, Malawi (ZZU)",
+      "code":"ZZU"
+   },
+   {
+      "city":"Nelspruit, South Africa (NLP)",
+      "code":"NLP"
+   },
+   {
+      "city":"Phalaborwa, South Africa (PHW)",
+      "code":"PHW"
+   },
+   {
+      "city":"Pietermaritzburg, South Africa (PZB)",
+      "code":"PZB"
+   },
+   {
+      "city":"Pietersburb, South Africa (PTG)",
+      "code":"PTG"
+   },
+   {
+      "city":"Port Elizabeth, South Africa (PLZ)",
+      "code":"PLZ"
+   },
+   {
+      "city":"Johannesburg, South Africa (JNB)",
+      "code":"JNB"
+   },
+   {
+      "city":"Cape Town, South Africa (CPT)",
+      "code":"CPT"
+   },
+   {
+      "city":"Melbourne, Victoria, Australia (MEL)",
+      "code":"MEL"
+   },
+   {
+      "city":"Melbourne, FL (MLB)",
+      "code":"MLB"
+   },
+   {
+      "city":"New York, NY - All airports (NYC)",
+      "code":"NYC"
+   },
+   {
+      "city":"New York, NY - Kennedy (JFK)",
+      "code":"JFK"
+   },
+   {
+      "city":"New York, NY - La Guardia (LGA)",
+      "code":"LGA"
+   }
+]
